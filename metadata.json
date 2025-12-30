@@ -1,0 +1,5 @@
+{
+  "name": "SinoVoice - Chinese TTS",
+  "description": "A high-fidelity text-to-speech application optimized for Chinese characters using Gemini 2.5 Flash technology.",
+  "requestFramePermissions": []
+}
